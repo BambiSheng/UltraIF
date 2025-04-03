@@ -1,7 +1,8 @@
 # UltraIF: Advancing Instruction Following from the Wild
 
 ## News 🚀
-
+- [04-03] We release our model at HuggingFace 🤗, check out [UltraIF Collection](https://huggingface.co/collections/bambisheng/ultraif-series-67ee75a6042e8ba3e97d0b25) !
+  
 - [02-10] We release our data at Huggingface: [SFT](https://huggingface.co/datasets/kkk-an/UltraIF-sft-175k) and [DPO](https://huggingface.co/datasets/kkk-an/UltraIF-dpo-20k).
 
 - [02-06] Our paper is public at [arxiv](https://arxiv.org/abs/2502.04153).
